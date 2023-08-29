@@ -1,0 +1,4 @@
+name: Kush
+version: '${version}'
+main: com.kuma.kush.Kush
+api-version: '1.20'
